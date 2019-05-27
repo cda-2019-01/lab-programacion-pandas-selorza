@@ -3,3 +3,4 @@
 ## de la tabla tbl0
 ## 
 
+df0.groupby('_c1').max()['_c2']

@@ -4,4 +4,6 @@
 ## valor en tbl0._c1.
 ## 
 
+df2.head()
+df2.groupby('_c5a')['_c5b'].sum()
 
